@@ -7,11 +7,28 @@
     width: 100vm;
     height: 200px;
     background-color: brown;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.quadrado div{
+    width: 100vm;
+    height: 100px;
+    background-color: yellow;
+}
+.circulos{
+    width: 100vw;
+    padding: 200px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
 
 }
 .circulos{
     width: 100vw;
     padding: 200px;
     background-color: aqua;
+    display: flex;
+    justify-content: space-between;
 
 }
